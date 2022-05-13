@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+   "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="6c8cad22-eb46-4575-ace7-5653748bf13a"/>
+    <meta name="dtb:depth" content="1"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>Tání chůze</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>* * * (Kosmodrom)</text>
+      </navLabel>
+      <content src="Text/tani_chuze_006.html"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>* * * (Někde)</text>
+      </navLabel>
+      <content src="Text/tani_chuze_007.html"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>* * * (Taje erotiky)</text>
+      </navLabel>
+      <content src="Text/tani_chuze_008.html"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>* * * (Bez názvu)</text>
+      </navLabel>
+      <content src="Text/tani_chuze_009.html"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>* * * (Noční báseň)</text>
+      </navLabel>
+      <content src="Text/tani_chuze_010.html"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>* * * (Love story)</text>
+      </navLabel>
+      <content src="Text/tani_chuze_011.html"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>* * * (A až pant klasika…)</text>
+      </navLabel>
+      <content src="Text/tani_chuze_012.html"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>* * * (Skryje)</text>
+      </navLabel>
+      <content src="Text/tani_chuze_013.html"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>* * * (Brněnské loučení à la V. N.)</text>
+      </navLabel>
+      <content src="Text/tani_chuze_014.html"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>* * * (Píseň)</text>
+      </navLabel>
+      <content src="Text/tani_chuze_015.html"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>* * * (Na okenním rámu)</text>
+      </navLabel>
+      <content src="Text/tani_chuze_016.html"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>* * * (Ticho zmírá)</text>
+      </navLabel>
+      <content src="Text/tani_chuze_017.html"/>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>* * * (Post coitum…)</text>
+      </navLabel>
+      <content src="Text/tani_chuze_018.html"/>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>* * * (Spánek)</text>
+      </navLabel>
+      <content src="Text/tani_chuze_019.html"/>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>* * * (Chůze pošmourným odpolednem)</text>
+      </navLabel>
+      <content src="Text/tani_chuze_020.html"/>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>* * * (Švédská trojice)</text>
+      </navLabel>
+      <content src="Text/tani_chuze_021.html"/>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>* * * (Vzdechy nad Brnem)</text>
+      </navLabel>
+      <content src="Text/tani_chuze_022.html"/>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>* * * (Thema à la these)</text>
+      </navLabel>
+      <content src="Text/tani_chuze_023.html"/>
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>* * * (Novoroční)</text>
+      </navLabel>
+      <content src="Text/tani_chuze_024.html"/>
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>* * * (Jak se dělá báseň)</text>
+      </navLabel>
+      <content src="Text/tani_chuze_025.html"/>
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>* * * (U bludiček)</text>
+      </navLabel>
+      <content src="Text/tani_chuze_026.html"/>
+    </navPoint>
+    <navPoint id="navPoint-22" playOrder="22">
+      <navLabel>
+        <text>* * * (Hřbitov v Marině)</text>
+      </navLabel>
+      <content src="Text/tani_chuze_027.html"/>
+    </navPoint>
+    <navPoint id="navPoint-23" playOrder="23">
+      <navLabel>
+        <text>* * * (Tání chůze)</text>
+      </navLabel>
+      <content src="Text/tani_chuze_028.html"/>
+    </navPoint>
+    <navPoint id="navPoint-24" playOrder="24">
+      <navLabel>
+        <text>* * * (Už nás to přešlo)</text>
+      </navLabel>
+      <content src="Text/tani_chuze_029.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

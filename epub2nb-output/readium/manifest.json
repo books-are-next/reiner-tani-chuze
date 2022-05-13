@@ -1,0 +1,264 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Tání chůze",
+    "identifier": "6c8cad22-eb46-4575-ace7-5653748bf13a",
+    "author": "Martin Reiner",
+    "publisher": "Městská knihovna v Praze",
+    "language": "cs",
+    "modified": "2019-10-30T00:00:00.000Z",
+    "published": "2019-10-29T00:00:00.000Z",
+    "Sigil version": "0.9.9"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tani_chuze_001.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tani_chuze_002.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tani_chuze_003.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tani_chuze_004.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tani_chuze_005.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tani_chuze_006.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tani_chuze_007.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tani_chuze_008.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tani_chuze_009.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tani_chuze_010.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tani_chuze_011.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tani_chuze_012.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tani_chuze_013.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tani_chuze_014.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tani_chuze_015.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tani_chuze_016.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tani_chuze_017.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tani_chuze_018.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tani_chuze_019.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tani_chuze_020.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tani_chuze_021.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tani_chuze_022.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tani_chuze_023.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tani_chuze_024.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tani_chuze_025.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tani_chuze_026.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tani_chuze_027.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tani_chuze_028.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tani_chuze_029.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tani_chuze_030.html"
+    }
+  ],
+  "resources": [
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image001.jpg"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/image002.png"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/page_styles.css"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/stylesheet.css"
+    },
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/obalka.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+    }
+  ],
+  "toc": [
+    {
+      "title": "* * * (Kosmodrom)",
+      "href": "OEBPS/Text/tani_chuze_006.html"
+    },
+    {
+      "title": "* * * (Někde)",
+      "href": "OEBPS/Text/tani_chuze_007.html"
+    },
+    {
+      "title": "* * * (Taje erotiky)",
+      "href": "OEBPS/Text/tani_chuze_008.html"
+    },
+    {
+      "title": "* * * (Bez názvu)",
+      "href": "OEBPS/Text/tani_chuze_009.html"
+    },
+    {
+      "title": "* * * (Noční báseň)",
+      "href": "OEBPS/Text/tani_chuze_010.html"
+    },
+    {
+      "title": "* * * (Love story)",
+      "href": "OEBPS/Text/tani_chuze_011.html"
+    },
+    {
+      "title": "* * * (A až pant klasika…)",
+      "href": "OEBPS/Text/tani_chuze_012.html"
+    },
+    {
+      "title": "* * * (Skryje)",
+      "href": "OEBPS/Text/tani_chuze_013.html"
+    },
+    {
+      "title": "* * * (Brněnské loučení à la V. N.)",
+      "href": "OEBPS/Text/tani_chuze_014.html"
+    },
+    {
+      "title": "* * * (Píseň)",
+      "href": "OEBPS/Text/tani_chuze_015.html"
+    },
+    {
+      "title": "* * * (Na okenním rámu)",
+      "href": "OEBPS/Text/tani_chuze_016.html"
+    },
+    {
+      "title": "* * * (Ticho zmírá)",
+      "href": "OEBPS/Text/tani_chuze_017.html"
+    },
+    {
+      "title": "* * * (Post coitum…)",
+      "href": "OEBPS/Text/tani_chuze_018.html"
+    },
+    {
+      "title": "* * * (Spánek)",
+      "href": "OEBPS/Text/tani_chuze_019.html"
+    },
+    {
+      "title": "* * * (Chůze pošmourným odpolednem)",
+      "href": "OEBPS/Text/tani_chuze_020.html"
+    },
+    {
+      "title": "* * * (Švédská trojice)",
+      "href": "OEBPS/Text/tani_chuze_021.html"
+    },
+    {
+      "title": "* * * (Vzdechy nad Brnem)",
+      "href": "OEBPS/Text/tani_chuze_022.html"
+    },
+    {
+      "title": "* * * (Thema à la these)",
+      "href": "OEBPS/Text/tani_chuze_023.html"
+    },
+    {
+      "title": "* * * (Novoroční)",
+      "href": "OEBPS/Text/tani_chuze_024.html"
+    },
+    {
+      "title": "* * * (Jak se dělá báseň)",
+      "href": "OEBPS/Text/tani_chuze_025.html"
+    },
+    {
+      "title": "* * * (U bludiček)",
+      "href": "OEBPS/Text/tani_chuze_026.html"
+    },
+    {
+      "title": "* * * (Hřbitov v Marině)",
+      "href": "OEBPS/Text/tani_chuze_027.html"
+    },
+    {
+      "title": "* * * (Tání chůze)",
+      "href": "OEBPS/Text/tani_chuze_028.html"
+    },
+    {
+      "title": "* * * (Už nás to přešlo)",
+      "href": "OEBPS/Text/tani_chuze_029.html"
+    }
+  ]
+}
