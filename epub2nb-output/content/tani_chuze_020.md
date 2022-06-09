@@ -6,7 +6,7 @@ contentType: prose
 (Chůze pošmourným odpolednem)
 
 Z Bítova do hradu, větrem vypuzován z obce,  
-nejsem res catholica a mříti budu sám.  
+nejsem _res catholica_ a mříti budu sám.  
 Oslí tma v bodláčí suicidně hýká,  
 kopýtkem hlasů jsem do krajiny dusán.
 

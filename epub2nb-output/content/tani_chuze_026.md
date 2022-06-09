@@ -9,8 +9,8 @@ for Golden Twentieth
 
 Má dole v údolí ojíněný keř,  
 žaluje po větru: „Celičká hořím!“  
-V lodičkách culení, ehm, se boří,  
-rozkošně polyká pralinky eř.
+V lodičkách culení, _ehm_, se boří,  
+rozkošně polyká pralinky _eř_.
 
 Našpulí hubičku chycené plotice:  
 já v ní prý probouzím  
@@ -20,15 +20,15 @@ Kam zase pádí, tak nenadále?
 
 „Slečínko, pohleďte,  
                            já už su bezbranné!  
-Vy porád řikáte to svoje ne a ne.  
+Vy porád řikáte to svoje _ne a ne_.  
 Plazíte jazýček z jahodí,  
-mlčte už! Mně se to vaše ne  
+mlčte už! Mně se to vaše _ne_  
                                                 nehodí.“
 
 Řikám jí: „Slečínko.  
                           néste vy haňbatá?!  
-Néste vy kulomet, tata a ratata?  
-Poďte být alespoň na chvíli zticha,  
+Néste vy kulomet, _tata a ratata?  
+_Poďte být alespoň na chvíli zticha,  
 poďte dýchat…“
 
 Bludička umlkne uprostřed noci,  
@@ -38,7 +38,7 @@ barmanka pod námi ruce si mne…
 
 \[…\]
 
-Epilogue
+_Epilogue_
 
 Komu chceš klásti co za vinu?  
 Milerád ponechám  

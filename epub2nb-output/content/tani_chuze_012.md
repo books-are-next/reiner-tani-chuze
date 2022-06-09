@@ -7,14 +7,14 @@ contentType: prose
 
 Janu Opolskému
 
-Kobaltu okulár zmlžit, ó, lehce,  
+_Kobaltu okulár zmlžit, ó, lehce,  
 dlaněmi vyplísnit Svitavu bílou.  
 Hle, ona brání se, pláče a nechce…  
-strhneš ji v okeán bezedný silou?
+strhneš ji v okeán bezedný silou?_
 
-Nebe se klene nad ocasem hřebce,  
+_Nebe se klene nad ocasem hřebce,  
 orkán je rozpůlí zlatistou pilou.  
-Ticho se houpe v březích, ó, ecce:
+Ticho se houpe v březích, ó, ecce:_
 
 Už milá proudíš mou ukrutnou žilou!
 

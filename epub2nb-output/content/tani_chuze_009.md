@@ -16,7 +16,7 @@ Poslouchám tě, když jsem sám, a když tě
                                                                            poslouchám,  
 s tebou jsem, Mariah. Tehdy přeji si:  
 Ó věci prosté, vejdětež branami mých smyslů  
-a setrvejte inside me ku větší slávě Boží, Gloria!
+a setrvejte _inside me_ ku větší slávě Boží, Gloria!
 
 Když s tebou jsem, Mariah, vše, co jest tvé,  
 daleko přesahuje svůj prapůvodní vzrůst.  

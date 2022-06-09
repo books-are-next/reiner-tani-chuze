@@ -2,8 +2,8 @@
 contentType: prose
 ---
 
-Martin Reiner  
-Tání chůze
+**Martin Reiner  
+Tání chůze**
 
 Ilustrace na obálce Merfin/Shutterstock.com
 
