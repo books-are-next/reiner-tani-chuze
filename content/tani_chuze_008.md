@@ -7,7 +7,7 @@ contentType: prose
 
 Má mrtvá babička byla kdysi mladá,  
 nad jejím hrobem kvetou mečíky, jež sil jsem.  
-Tobě, jemuž v údivu, šup!, padá brada,  
+Tobě, jemuž v údivu, _šup!_, padá brada,  
 povím o lásce vnukovské víc.
 
 Má mrtvá babička nikdy nic neuměla,  
@@ -16,7 +16,7 @@ ta jeho gayovská brada smělá,
 výpadů celá voliéra, plášť…
 
 Opravdu podivná záliba v květinách;  
-Jean Marais píšící Mon chéri milenci…  
+Jean Marais píšící _Mon chéri_ milenci…  
 kolikrát do babky temného klína plách’  
 klouček výtek plný, jen si tak poshovět.
 

@@ -9,7 +9,7 @@ Markétě Jankové
 
 Když za naším domem vyhloubili jámu  
 a miláček do rotačky pračky  
-marně cpal ručník full of love,  
+marně cpal ručník _full of love_,  
 vešel jsem, on túze lek’ se… a já mu:  
 „Pojď, ukážu ti, cos ještě neviděla.“
 
@@ -27,7 +27,7 @@ se přidá k chóru marnost holá klína.
 
 Načež se vyděsím, uhlídav tu věc.  
 A už vleku kvapem Eurydiku zpět  
-z podsvětí, ó ano, do pozemských vět,  
+z podsvětí, _ó ano_, do pozemských vět,  
 takže asi neviděla, co zví bdělý čtec:  
 v naší jámě spinká šedý kostlivec.
 

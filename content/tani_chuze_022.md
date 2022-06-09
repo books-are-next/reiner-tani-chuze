@@ -28,12 +28,12 @@ v průčelí Tomáška: nad hlavou nevěsty
 a rozeklané přízně  
    závojíček tkají z mnoha, mnoha ach.  
 Za chvíli vezou už na márách  
-mých hebce mrákotných, ach!, třiatřicet let.  
+mých hebce mrákotných, _ach!_, třiatřicet let.  
 Berou to hopem a mají to hned.
 
 A já jsem rád, že jedu s čistou hlavou.  
-                  Můj vztah k Brnu totiž není  
-                  lepší nežli — bio-ero-genní.  
+                  _Můj vztah k Brnu totiž není_  
+                  _lepší nežli — bio-ero-genní_.  
 Žiju v tom a miluju to.
 
 Cpu se v menzách, vedu první útok,  
@@ -73,7 +73,7 @@ a budu zvědav, jak žesť ji bude hrát…
 
 \[…\]
 
-Epilogue
+_Epilogue_
 
 Hle, město ožívá. Město zase žije.  
 Tympány duní, pozoun, harmonie,  
