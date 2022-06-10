@@ -1,9 +1,9 @@
 ---
+title: '* * * (Už nás to přešlo)'
 contentType: prose
 ---
 
-## \* \* \*  
-(Už nás to přešlo)
+<section>
 
 Rozevlátý silon léta  
 splétáme do copů.  
@@ -16,3 +16,5 @@ Kdo otevře dlaň,
 vzlétne jako fénix.
 
 (napsáno v roce 1987)
+
+</section>

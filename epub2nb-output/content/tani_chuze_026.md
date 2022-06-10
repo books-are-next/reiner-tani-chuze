@@ -1,9 +1,9 @@
 ---
+title: "* * * (U\_bludiček)"
 contentType: prose
 ---
 
-## \* \* \*  
-(U bludiček)
+<section>
 
 for Golden Twentieth
 
@@ -46,3 +46,5 @@ Milerád ponechám
 V děvky cop smutně se zavinu.
 
 Má mě tam do příště v zásobě.
+
+</section>

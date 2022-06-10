@@ -1,9 +1,9 @@
 ---
+title: '* * * (Na okenním rámu)'
 contentType: prose
 ---
 
-## \* \* \*  
-(Na okenním rámu)
+<section>
 
 Na okenním rámu ještě dodoutnává prach,  
 chladný proud omývá staré pavlače;  
@@ -16,3 +16,5 @@ Nedovřeným oknem vstoupí lysé ptáče:
 spi, na malou lásku stačí malý sup.
 
 (rekonstrukce z roku 1991)
+
+</section>

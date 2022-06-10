@@ -1,9 +1,9 @@
 ---
+title: '* * * (Love story)'
 contentType: prose
 ---
 
-## \* \* \*  
-(Love story)
+<section>
 
 Pod námi město jen v páře a v krvi,  
 na stádec živých padá něco deště.  
@@ -22,3 +22,5 @@ Všechno tu zčervená, vše zflekatí,
 mrtvý se udělá — naposled — do gatí.
 
 (rekonstrukce z roku 1992)
+
+</section>

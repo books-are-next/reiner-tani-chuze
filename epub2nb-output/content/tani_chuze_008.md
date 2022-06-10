@@ -1,9 +1,9 @@
 ---
+title: '* * * (Taje erotiky)'
 contentType: prose
 ---
 
-## \* \* \*  
-(Taje erotiky)
+<section>
 
 Má mrtvá babička byla kdysi mladá,  
 nad jejím hrobem kvetou mečíky, jež sil jsem.  
@@ -26,3 +26,5 @@ Jakou si zaslouží v životě slávu ten,
 kdo se vyřídil insitní souloží?
 
 (rekonstrukce z roku 1990)
+
+</section>

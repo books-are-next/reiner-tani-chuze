@@ -1,9 +1,9 @@
 ---
+title: '* * * (Novoroční)'
 contentType: prose
 ---
 
-## \* \* \*  
-(Novoroční)
+<section>
 
 naposledy Jitce
 
@@ -49,3 +49,5 @@ Oni jsou zkrátka tam, a já tady!
 Nový rok, to se ví, neumře hlady.
 
 (Však jednou, Bestie, však jednou skonáš!)
+
+</section>

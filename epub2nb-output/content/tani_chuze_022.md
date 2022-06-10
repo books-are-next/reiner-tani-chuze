@@ -1,9 +1,9 @@
 ---
+title: '* * * (Vzdechy nad Brnem)'
 contentType: prose
 ---
 
-## \* \* \*  
-(Vzdechy nad Brnem)
+<section>
 
 Pořádně usazen, šlápl jsem na plyn a  
 země se rozběhla v botách Čé Čaplina.  
@@ -85,3 +85,5 @@ Cítím, jak vpich podzimem se nítí…
 a když se nad Brnem rozklene nebe,  
 vím, že jsem sceloval  
                                       jenom sám sebe.
+
+</section>

@@ -1,9 +1,9 @@
 ---
+title: "* * * (Hřbitov v\_Marině)"
 contentType: prose
 ---
 
-## \* \* \*  
-(Hřbitov v Marině)
+<section>
 
 Jak rozlišit ty dvě: chvíli cennou, chvíli bezcennou?  
 Tancují v reji plošně obsáhlém…  
@@ -26,3 +26,5 @@ o niž se dá bojovat jen bez pohybu, v tkvění.
 Jen totální nečinností umořit lze čas.  
 Proč ledva zrozeno embryo hloupé pění,  
 nožičkou ťukajíc na mrtvého v nás?
+
+</section>

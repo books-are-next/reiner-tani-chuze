@@ -1,9 +1,9 @@
 ---
+title: '* * * (Ticho zmírá)'
 contentType: prose
 ---
 
-## \* \* \*  
-(Ticho zmírá)
+<section>
 
 Zeno Kaprálovi
 
@@ -31,3 +31,5 @@ Jen má pravá ruka ku prospěchu ticha
 
 Chvíli slyšíš sochy dýchat.  
 V pozadí už marš, rychlopalná děla!
+
+</section>

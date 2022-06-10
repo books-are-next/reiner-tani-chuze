@@ -1,9 +1,9 @@
 ---
+title: '* * * (Švédská trojice)'
 contentType: prose
 ---
 
-## \* \* \*  
-(Švédská trojice)
+<section>
 
 J. H. Krchovskému
 
@@ -55,3 +55,5 @@ Zde pointa čili finále, či s prominutím amen:
 Nad naší postelí se rozklenula záře.  
 V tu chvíli jsem pochopil, kdo psal tuhle báseň  
 bleděrudým inkoustem z tvého kalamáře.
+
+</section>

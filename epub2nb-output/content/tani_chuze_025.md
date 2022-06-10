@@ -1,9 +1,9 @@
 ---
+title: '* * * (Jak se dělá báseň)'
 contentType: prose
 ---
 
-## \* \* \*  
-(Jak se dělá báseň)
+<section>
 
 _Ještě počkej, houkl dolů mrak…  
 a v hrstích nesl déšť jak jemně mletý mák.  
@@ -24,3 +24,5 @@ skryt ostaň, dokud pták neustrne v letu,
 hle, už spatřil z výše svou vyvolenou větu:  
 _Setkání nudle s mákem na operačním stole  
 nemělo by po letech asi tolik bolet._
+
+</section>

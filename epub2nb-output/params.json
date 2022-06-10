@@ -8,22 +8,22 @@
       "modified": "2019-10-30T00:00:00.000Z"
     },
     "elements": {
-      "title": "MLP.uroven1.*\nMLP.uroven2.kapitola\nMLP.uroven2.basne\ne.booknadpis.*\nheading.id.2\nmlpuroven1cast\nmlpuroven2kapitola",
+      "title": "MLP.uroven1.*\nMLP.uroven2.kapitola\nMLP.uroven2.basne\nMLP.uroven2.kapitola.dopis\nMLP.uroven2.kapitola.upraven\ne.booknadpis2\ne.booknadpis2bezodstrnkovn\ne.booknadpis2probasne\ne.bookobsah\nheading.id.2\nmlpuroven1.*\nmlpuroven2.*\nMLP.UROVEN2.BASNE.II\nMLP.UROVEN2.KAPITOLA\nMLP.UROVEN2.PARAL\nMLP.uroven1.PARAL",
       "subtitle": "",
-      "h2": "MLP.uroven3.nadpis\nMLP.UROVEN3.NADPIS.DRAMA",
+      "h2": "MLP.uroven3.nadpis.*\nMLP.UROVEN3.*\ne.booknadpis3bezodstrankovani\ne.booknadpis3probasne\nmlpuroven3.*",
       "h3": "MLP.uroven4.nadpis\ne.booknadpis3bezodstrankovani\ne.booknadpis3probasnebezodstrankovani",
       "h4": "MLP.uroven5.nadpis",
       "hr": "MLP.hvezdicky\ne.bookhvezdickystred",
       "hrBefore": "",
       "hrAfter": "",
       "br": "",
-      "brBefore": ".+12.0\n.+12.12\ne.bookversebezpredsazeni.*pred.*\ne.bookodsazeniodstavce.*pred.*",
-      "brAfter": ".+0.12\n.+12.12\ne.bookversebezpredsazeni.*za.*\ne.bookodsazeniodstavce.*za.*",
+      "brBefore": ".+12.0\n.+12.12\n.+12.0.\n.+12.12.\ne.bookversebezpredsazeni.*pred.*\ne.bookodsazeniodstavce.*pred.*",
+      "brAfter": ".+0.12\n.+12.12\n.+0.12.\n.+12.12.\ne.bookversebezpredsazeni.*za.*\ne.bookodsazeniodstavce.*za.*",
       "blockquote": "MLP.DENIK\nMLP.dopis.*\nMLP.citat\nMLP.prima.rec\ne.bookdopis\ne.bookprozatextkurzivadoprava",
       "centered": ".*uprostred.*",
       "figure": "MLP.obrazky.*\nmlpobrazky",
-      "em": ".*kurziva.*\n.*-I-.*\n.*--I\nMLP.venovani\nMLP.verse.*\nMLP.titulka.prekladatel\nMLP.pozn.pod.carou\nMLP.scenicke.poznamky\ne.booktextvenovani.*\nmlpvenovani.*\nmlpversei",
-      "strong": "MLP.tiraz.autor.a.nazev\nMLP.tiraz.podnazev\nMLP.licence.paragraf\n.*tucne.*\n.*tucna.*\n.*-B-\n.*-B\nMLP.prima.rec\nMLP.prima.rec.bez.mezery\ne.booktirazautoradilo\nmlptextb\nmlptirazautoranazev",
+      "em": ".*kurziva.*\n.*-I-.*\n.*-I\n.*_I_.*\n.*_I\nMLP.venovani\nMLP.verse.*\nMLP.titulka.prekladatel\nMLP.pozn.pod.carou\nMLP.scenicke.poznamky\ne.booktextvenovani.*\nmlpvenovani.*\nmlpversei",
+      "strong": "MLP.tiraz.autor.a.nazev\nMLP.tiraz.podnazev\nMLP.licence.paragraf\n.*tucne.*\n.*tucna.*\n.*-B-\n.*-B\n.*_B_\n.*_B\nMLP.prima.rec\nMLP.prima.rec.bez.mezery\ne.booktirazautoradilo\nmlptextb\nmlptirazautoranazev",
       "verse": "MLP.verse.*",
       "remove": "",
       "ignore": ""
@@ -407,145 +407,145 @@
         "xhtml": "tani_chuze_005.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "* * * (Kosmodrom)",
         "subtitleSuggest": "",
         "filename": "tani_chuze_006.md",
         "xhtml": "tani_chuze_006.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "* * * (Někde)",
         "subtitleSuggest": "",
         "filename": "tani_chuze_007.md",
         "xhtml": "tani_chuze_007.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "* * * (Taje erotiky)",
         "subtitleSuggest": "",
         "filename": "tani_chuze_008.md",
         "xhtml": "tani_chuze_008.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "* * * (Bez názvu)",
         "subtitleSuggest": "",
         "filename": "tani_chuze_009.md",
         "xhtml": "tani_chuze_009.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "* * * (Noční báseň)",
         "subtitleSuggest": "",
         "filename": "tani_chuze_010.md",
         "xhtml": "tani_chuze_010.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "* * * (Love story)",
         "subtitleSuggest": "",
         "filename": "tani_chuze_011.md",
         "xhtml": "tani_chuze_011.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "* * * (A až pant klasika…)",
         "subtitleSuggest": "",
         "filename": "tani_chuze_012.md",
         "xhtml": "tani_chuze_012.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "* * * (Skryje)",
         "subtitleSuggest": "",
         "filename": "tani_chuze_013.md",
         "xhtml": "tani_chuze_013.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "* * * (Brněnské loučení à la V\\. N\\.)",
         "subtitleSuggest": "",
         "filename": "tani_chuze_014.md",
         "xhtml": "tani_chuze_014.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "* * * (Píseň)",
         "subtitleSuggest": "",
         "filename": "tani_chuze_015.md",
         "xhtml": "tani_chuze_015.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "* * * (Na okenním rámu)",
         "subtitleSuggest": "",
         "filename": "tani_chuze_016.md",
         "xhtml": "tani_chuze_016.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "* * * (Ticho zmírá)",
         "subtitleSuggest": "",
         "filename": "tani_chuze_017.md",
         "xhtml": "tani_chuze_017.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "* * * (Post coitum…)",
         "subtitleSuggest": "",
         "filename": "tani_chuze_018.md",
         "xhtml": "tani_chuze_018.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "* * * (Spánek)",
         "subtitleSuggest": "",
         "filename": "tani_chuze_019.md",
         "xhtml": "tani_chuze_019.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "* * * (Chůze pošmourným odpolednem)",
         "subtitleSuggest": "",
         "filename": "tani_chuze_020.md",
         "xhtml": "tani_chuze_020.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "* * * (Švédská trojice)",
         "subtitleSuggest": "",
         "filename": "tani_chuze_021.md",
         "xhtml": "tani_chuze_021.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "* * * (Vzdechy nad Brnem)",
         "subtitleSuggest": "",
         "filename": "tani_chuze_022.md",
         "xhtml": "tani_chuze_022.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "* * * (Thema à la these)",
         "subtitleSuggest": "",
         "filename": "tani_chuze_023.md",
         "xhtml": "tani_chuze_023.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "* * * (Novoroční)",
         "subtitleSuggest": "",
         "filename": "tani_chuze_024.md",
         "xhtml": "tani_chuze_024.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "* * * (Jak se dělá báseň)",
         "subtitleSuggest": "",
         "filename": "tani_chuze_025.md",
         "xhtml": "tani_chuze_025.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "* * * (U bludiček)",
         "subtitleSuggest": "",
         "filename": "tani_chuze_026.md",
         "xhtml": "tani_chuze_026.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "* * * (Hřbitov v Marině)",
         "subtitleSuggest": "",
         "filename": "tani_chuze_027.md",
         "xhtml": "tani_chuze_027.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "* * * (Tání chůze)",
         "subtitleSuggest": "",
         "filename": "tani_chuze_028.md",
         "xhtml": "tani_chuze_028.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "* * * (Už nás to přešlo)",
         "subtitleSuggest": "",
         "filename": "tani_chuze_029.md",
         "xhtml": "tani_chuze_029.html"
@@ -622,6 +622,6 @@
       "user": "books-are-next",
       "repo": "reiner-tani-chuze"
     },
-    "generatedAt": 1654779615570
+    "generatedAt": 1654882975425
   }
 }

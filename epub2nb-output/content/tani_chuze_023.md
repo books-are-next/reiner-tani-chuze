@@ -1,9 +1,9 @@
 ---
+title: "* * * (Thema à\_la these)"
 contentType: prose
 ---
 
-## \* \* \*  
-(Thema à la these)
+<section>
 
 Jaroslavu Vrchlickému
 
@@ -21,3 +21,5 @@ Nedáš nic znát a budeš tak chytrá,
 diadém vcítění, šperk čarokrásný.
 
 (rekonstrukce z roku 1990)
+
+</section>

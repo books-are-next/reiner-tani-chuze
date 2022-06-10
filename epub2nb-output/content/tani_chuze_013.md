@@ -1,9 +1,9 @@
 ---
+title: '* * * (Skryje)'
 contentType: prose
 ---
 
-## \* \* \*  
-(Skryje)
+<section>
 
 Vrásčitost krajiny, řeka do údolí,  
 pády vodní, červenec.  
@@ -16,3 +16,5 @@ planeta vlídná, viněta pravá,
 jedoucí vozy podvečerů.
 
 (napsáno v roce 1988)
+
+</section>

@@ -1,9 +1,9 @@
 ---
+title: '* * * (Spánek)'
 contentType: prose
 ---
 
-## \* \* \*  
-(Spánek)
+<section>
 
 _Oculis non manibus_ — vydech’ opar rána.  
 Na konvicích cínových šelestivě hrálo.  
@@ -18,3 +18,5 @@ Potom to jiné sny rozprášily.
 Oculis non manibus _lze vyložit takto:  
 _Dívat se, ale nesahat.  
 _(rekonstrukce z roku 1990)_
+
+</section>

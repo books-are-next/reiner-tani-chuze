@@ -1,9 +1,9 @@
 ---
+title: '* * * (Píseň)'
 contentType: prose
 ---
 
-## \* \* \*  
-(Píseň)
+<section>
 
 Norbertu Holubovi
 
@@ -27,3 +27,5 @@ schovám se sám před sebou…
                                        český Salman Rushdie.
 
 (rekonstrukce z roku 1990)
+
+</section>
