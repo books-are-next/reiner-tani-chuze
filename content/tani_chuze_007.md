@@ -1,9 +1,9 @@
 ---
+title: '* * * (Někde)'
 contentType: prose
 ---
 
-## \* \* \*  
-(Někde)
+<section>
 
 Někoho svezou.  
 Déšť svírá se zemí  
@@ -36,3 +36,5 @@ Posouvat život
 kapkou svého těla…
 
 (rekonstrukce z roku 1990)
+
+</section>

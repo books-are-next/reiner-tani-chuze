@@ -1,9 +1,9 @@
 ---
+title: '* * * (Brněnské loučení à la V\. N\.)'
 contentType: prose
 ---
 
-## \* \* \*  
-(Brněnské loučení à la V. N.)
+<section>
 
 Sbohem, a kdybychom se víckrát nesetkali,  
 bylo to krásné a bylo toho dost.  
@@ -30,3 +30,5 @@ Sbohem, miláčku, sbohem, můj krystale!
 Poštou ti posílám tesklivý rozsudek.  
 Možná se setkáme za dvě stě, tři sta let —  
 nad kávou, u stolu… Vyplň se, osude!
+
+</section>

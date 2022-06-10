@@ -1,9 +1,9 @@
 ---
+title: '* * * (Noční báseň)'
 contentType: prose
 ---
 
-## \* \* \*  
-(Noční báseň)
+<section>
 
 V zrcadle se odráží kus protější stěny,  
 mrtvá dívka z aktu nesvede být tichá.  
@@ -30,3 +30,5 @@ já sotva brvou hnu, ale i tak vím,
 Navzdory skepsi té ve spárách klíčím…
 
 Navzdory vědomí oddávám se žití.
+
+</section>

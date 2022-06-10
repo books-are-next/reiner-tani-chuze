@@ -1,9 +1,9 @@
 ---
+title: '* * * (Chůze pošmourným odpolednem)'
 contentType: prose
 ---
 
-## \* \* \*  
-(Chůze pošmourným odpolednem)
+<section>
 
 Z Bítova do hradu, větrem vypuzován z obce,  
 nejsem _res catholica_ a mříti budu sám.  
@@ -26,3 +26,5 @@ A říkám si: „Dnes to tu ještě doklepem;
 zítra se proměním v hvězdu nad tvým domem.“
 
 (Bítov 27. září 1997)
+
+</section>

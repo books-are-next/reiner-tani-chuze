@@ -1,9 +1,9 @@
 ---
+title: '* * * (Post coitum…)'
 contentType: prose
 ---
 
-## \* \* \*  
-(Post coitum…)
+<section>
 
 Markétě Jankové
 
@@ -45,3 +45,5 @@ Bytem jde ten, kdo byl vyhrabán.
 Do ložnic se vrací dávno mrtvý pán.
 
 Tři dny po napsání této básně přinesla Mladá fronta Dnes zprávu, že během archeologického výzkumu pod mým kuchyňským oknem byl sesuvem půdy zasypán mladý muž. Přestože záchranné práce trvaly jen několik minut, zadusil se.
+
+</section>

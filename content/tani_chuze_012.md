@@ -1,9 +1,9 @@
 ---
+title: "* * * (A\_až pant klasika…)"
 contentType: prose
 ---
 
-## \* \* \*  
-(A až pant klasika…)
+<section>
 
 Janu Opolskému
 
@@ -33,3 +33,5 @@ kapky deště:
 
 A až pant klasika úplně zrezne,  
 nebude už nic tak něžné.
+
+</section>

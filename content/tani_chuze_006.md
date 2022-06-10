@@ -1,9 +1,9 @@
 ---
+title: '* * * (Kosmodrom)'
 contentType: prose
 ---
 
-## \* \* \*  
-(Kosmodrom)
+<section>
 
 Dovolte mi představit se: Jmenuji se Reiner.  
 Světem se procházím v parukách snů.  
@@ -34,3 +34,5 @@ Kéž ambra prchavá zavoní v podpaží tmy!
 Já šerem prozřel jsem a dvěma prsty očí  
 roztáčím pro dnešek ruletu noci. Bůh jsme my!  
 Ruleta se točí…
+
+</section>

@@ -1,9 +1,9 @@
 ---
+title: '* * * (Bez názvu)'
 contentType: prose
 ---
 
-## \* \* \*  
-(Bez názvu)
+<section>
 
 for Mariah Carey
 
@@ -27,3 +27,5 @@ Patříme si, Mariah, tys mé svatojánské máslo
 utlučené ve vemeni starých černých krav.  
 Roztírám tě po hrubém zrně své samoty.  
 Koušu tě, Mariah, tam, kde to máš ráda!
+
+</section>

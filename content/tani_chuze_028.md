@@ -1,9 +1,9 @@
 ---
+title: '* * * (Tání chůze)'
 contentType: prose
 ---
 
-## \* \* \*  
-(Tání chůze)
+<section>
 
 Zastavil ses vprostřed mostku, nakročenu  
 výdrž proti vychýlení zrcadlové věže,  
@@ -30,3 +30,5 @@ hebký popel nesený pryč ve vlasech vlasatice,
 budeš souřadně vkreslen do nicoty.  
 — Však, bratře, věz, lze ztratit více, mnohem více  
                                     ve zlatých vlasech vlasatice.
+
+</section>
