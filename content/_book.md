@@ -45,76 +45,76 @@ tocBase:
   - id: section-1
     children:
       - link: tani_chuze_006.html
-        title: (Kosmodrom)
+        title: '* * * (Kosmodrom)'
         hiddenTitle: false
       - link: tani_chuze_007.html
-        title: (Někde)
+        title: '* * * (Někde)'
         hiddenTitle: false
       - link: tani_chuze_008.html
-        title: (Taje erotiky)
+        title: '* * * (Taje erotiky)'
         hiddenTitle: false
       - link: tani_chuze_009.html
-        title: (Bez názvu)
+        title: '* * * (Bez názvu)'
         hiddenTitle: false
       - link: tani_chuze_010.html
-        title: (Noční báseň)
+        title: '* * * (Noční báseň)'
         hiddenTitle: false
       - link: tani_chuze_011.html
-        title: (Love story)
+        title: '* * * (Love story)'
         hiddenTitle: false
       - link: tani_chuze_012.html
-        title: (A až pant klasika…)
+        title: "* * * (A\_až pant klasika…)"
         hiddenTitle: false
       - link: tani_chuze_013.html
-        title: (Skryje)
+        title: '* * * (Skryje)'
         hiddenTitle: false
       - link: tani_chuze_014.html
-        title: (Brněnské loučení à la V. N.)
+        title: '* * * (Brněnské loučení à la V\. N\.)'
         hiddenTitle: false
       - link: tani_chuze_015.html
-        title: (Píseň)
+        title: '* * * (Píseň)'
         hiddenTitle: false
       - link: tani_chuze_016.html
-        title: (Na okenním rámu)
+        title: '* * * (Na okenním rámu)'
         hiddenTitle: false
       - link: tani_chuze_017.html
-        title: (Ticho zmírá)
+        title: '* * * (Ticho zmírá)'
         hiddenTitle: false
       - link: tani_chuze_018.html
-        title: (Post coitum…)
+        title: '* * * (Post coitum…)'
         hiddenTitle: false
       - link: tani_chuze_019.html
-        title: (Spánek)
+        title: '* * * (Spánek)'
         hiddenTitle: false
       - link: tani_chuze_020.html
-        title: (Chůze pošmourným odpolednem)
+        title: '* * * (Chůze pošmourným odpolednem)'
         hiddenTitle: false
       - link: tani_chuze_021.html
-        title: (Švédská trojice)
+        title: '* * * (Švédská trojice)'
         hiddenTitle: false
       - link: tani_chuze_022.html
-        title: (Vzdechy nad Brnem)
+        title: '* * * (Vzdechy nad Brnem)'
         hiddenTitle: false
       - link: tani_chuze_023.html
-        title: (Thema à la these)
+        title: "* * * (Thema à\_la these)"
         hiddenTitle: false
       - link: tani_chuze_024.html
-        title: (Novoroční)
+        title: '* * * (Novoroční)'
         hiddenTitle: false
       - link: tani_chuze_025.html
-        title: (Jak se dělá báseň)
+        title: '* * * (Jak se dělá báseň)'
         hiddenTitle: false
       - link: tani_chuze_026.html
-        title: (U bludiček)
+        title: "* * * (U\_bludiček)"
         hiddenTitle: false
       - link: tani_chuze_027.html
-        title: (Hřbitov v Marině)
+        title: "* * * (Hřbitov v\_Marině)"
         hiddenTitle: false
       - link: tani_chuze_028.html
-        title: (Tání chůze)
+        title: '* * * (Tání chůze)'
         hiddenTitle: false
       - link: tani_chuze_029.html
-        title: (Už nás to přešlo)
+        title: '* * * (Už nás to přešlo)'
         hiddenTitle: false
     isSection: true
     listType: plain
