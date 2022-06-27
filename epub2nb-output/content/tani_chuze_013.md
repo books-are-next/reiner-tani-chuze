@@ -15,6 +15,6 @@ zastavený míček v šeru,
 planeta vlídná, viněta pravá,  
 jedoucí vozy podvečerů.
 
-(napsáno v roce 1988)
+_(napsáno v roce 1988)_
 
 </section>

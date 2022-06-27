@@ -21,16 +21,16 @@
       "hrBefore": "",
       "hrAfter": "",
       "br": "",
-      "brBefore": ".+12.0\n.+12.12\n.+12.0.\n.+12.12.\ne.bookversebezpredsazeni.*pred.*\ne.bookodsazeniodstavce.*pred.*",
+      "brBefore": ".+12.0\n.+12.12\n.+12.0.\n.+12.12.\ne.bookversebezpredsazeni.*pred.*\ne.bookodsazeniodstavce.*pred.*\nmlptextbez1radku mlptextbez1radku1 ",
       "brAfter": ".+0.12\n.+12.12\n.+0.12.\n.+12.12.\ne.bookversebezpredsazeni.*za.*\ne.bookodsazeniodstavce.*za.*",
       "blockquote": "MLP.DENIK\nMLP.dopis.*\nMLP.citat\nMLP.prima.rec\ne.bookdopis\ne.bookprozatextkurzivadoprava",
       "figure": "MLP.obrazky.*\nmlpobrazky",
-      "em": ".*kurziva.*\n.*-I-.*\n.*-I\n.*_I_.*\n.*_I\nMLP.venovani\nMLP.verse.*\nMLP.titulka.prekladatel\nMLP.pozn.pod.carou\nMLP.scenicke.poznamky\ne.booktextvenovani.*\nmlpvenovani.*\nmlpversei",
+      "centered": ".*uprostred.*",
+      "verse": "MLP.verse.*\nmlpverse mlpversei ",
+      "em": ".*kurziva.*\n.*-I-.*\n.*-I\n.*_I_.*\n.*_I\nMLP.venovani\nMLP.verse.*\nMLP.titulka.prekladatel\nMLP.pozn.pod.carou\nMLP.scenicke.poznamky\ne.booktextvenovani.*\nmlpvenovani.*\nmlpversei\nmlpdopisbez1radkui \nmlpdopispodpisi ",
       "strong": "MLP.tiraz.autor.a.nazev\nMLP.tiraz.podnazev\nMLP.licence.paragraf\n.*tucne.*\n.*tucna.*\n.*-B-\n.*-B\n.*_B_\n.*_B\nMLP.prima.rec\nMLP.prima.rec.bez.mezery\ne.booktirazautoradilo\nmlptextb\nmlptirazautoranazev",
       "remove": "",
-      "ignore": "",
-      "centered": ".*uprostred.*",
-      "verse": "MLP.verse.*"
+      "ignore": ""
     },
     "structure": [
       {
@@ -108,7 +108,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "(Kosmodrom)"
           },
           {
             "filename": "tani_chuze_007.md",
@@ -120,7 +121,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "(Někde)"
           },
           {
             "filename": "tani_chuze_008.md",
@@ -132,7 +134,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "(Taje erotiky)"
           },
           {
             "filename": "tani_chuze_009.md",
@@ -144,7 +147,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "(Bez názvu)"
           },
           {
             "filename": "tani_chuze_010.md",
@@ -156,7 +160,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "(Noční báseň)"
           },
           {
             "filename": "tani_chuze_011.md",
@@ -168,7 +173,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "(Love story)"
           },
           {
             "filename": "tani_chuze_012.md",
@@ -180,7 +186,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "(A až pant klasika…)"
           },
           {
             "filename": "tani_chuze_013.md",
@@ -192,7 +199,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "(Skryje)"
           },
           {
             "filename": "tani_chuze_014.md",
@@ -204,7 +212,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "(Brněnské loučení à la V. N.)"
           },
           {
             "filename": "tani_chuze_015.md",
@@ -216,7 +225,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "(Píseň)"
           },
           {
             "filename": "tani_chuze_016.md",
@@ -228,7 +238,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "(Na okenním rámu)"
           },
           {
             "filename": "tani_chuze_017.md",
@@ -240,7 +251,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "(Ticho zmírá)"
           },
           {
             "filename": "tani_chuze_018.md",
@@ -252,7 +264,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "(Post coitum…)"
           },
           {
             "filename": "tani_chuze_019.md",
@@ -264,7 +277,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "(Spánek)"
           },
           {
             "filename": "tani_chuze_020.md",
@@ -276,7 +290,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "(Chůze pošmourným odpolednem)"
           },
           {
             "filename": "tani_chuze_021.md",
@@ -288,7 +303,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "(Švédská trojice)"
           },
           {
             "filename": "tani_chuze_022.md",
@@ -300,7 +316,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "(Vzdechy nad Brnem)"
           },
           {
             "filename": "tani_chuze_023.md",
@@ -312,7 +329,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "(Thema à la these)"
           },
           {
             "filename": "tani_chuze_024.md",
@@ -324,7 +342,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "(Novoroční)"
           },
           {
             "filename": "tani_chuze_025.md",
@@ -336,7 +355,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "(Jak se dělá báseň)"
           },
           {
             "filename": "tani_chuze_026.md",
@@ -348,7 +368,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "(U bludiček)"
           },
           {
             "filename": "tani_chuze_027.md",
@@ -360,7 +381,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "(Hřbitov v Marině)"
           },
           {
             "filename": "tani_chuze_028.md",
@@ -372,7 +394,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "(Tání chůze)"
           },
           {
             "filename": "tani_chuze_029.md",
@@ -384,7 +407,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "(Už nás to přešlo)"
           },
           {
             "filename": "tani_chuze_030.md",
@@ -657,6 +681,6 @@
       "user": "books-are-next",
       "repo": "reiner-tani-chuze"
     },
-    "generatedAt": 1656320459350
+    "generatedAt": 1656320941922
   }
 }

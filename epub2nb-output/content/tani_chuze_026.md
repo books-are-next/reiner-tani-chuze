@@ -5,7 +5,7 @@ contentType: poetry
 
 <section>
 
-for Golden Twentieth
+_for Golden Twentieth_
 
 Má dole v údolí ojíněný keř,  
 žaluje po větru: „Celičká hořím!“  

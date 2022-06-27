@@ -21,6 +21,6 @@ něha se nahrne do žlábků labií.
 Všechno tu zčervená, vše zflekatí,  
 mrtvý se udělá — naposled — do gatí.
 
-(rekonstrukce z roku 1992)
+_(rekonstrukce z roku 1992)_
 
 </section>

@@ -5,7 +5,7 @@ contentType: poetry
 
 <section>
 
-Jaroslavu Vrchlickému
+_Jaroslavu Vrchlickému_
 
 Moje mladost přišla ke mně v noci dnes,  
 ve vlasech měla barvínkový květ.  
@@ -20,6 +20,6 @@ Nedáš nic znát a budeš tak chytrá,
                          budeš míti vklet  
 diadém vcítění, šperk čarokrásný.
 
-(rekonstrukce z roku 1990)
+_(rekonstrukce z roku 1990)_
 
 </section>

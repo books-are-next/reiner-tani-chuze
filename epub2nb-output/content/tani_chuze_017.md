@@ -5,7 +5,7 @@ contentType: poetry
 
 <section>
 
-Zeno Kaprálovi
+_Zeno Kaprálovi_
 
 Kalné světlo bronzu houpe mokrou vrší,  
 vraní život třepotá se v nohavicích času.  

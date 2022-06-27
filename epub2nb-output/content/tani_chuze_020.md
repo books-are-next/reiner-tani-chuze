@@ -25,6 +25,6 @@ jediný netopýr na trase vinným sklepem.
 A říkám si: „Dnes to tu ještě doklepem;  
 zítra se proměním v hvězdu nad tvým domem.“
 
-(Bítov 27. září 1997)
+_(Bítov 27. září 1997)_
 
 </section>

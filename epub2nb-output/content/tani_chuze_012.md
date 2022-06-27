@@ -5,7 +5,7 @@ contentType: poetry
 
 <section>
 
-Janu Opolskému
+_Janu Opolskému_
 
 _Kobaltu okulár zmlžit, ó, lehce,  
 dlaněmi vyplísnit Svitavu bílou.  

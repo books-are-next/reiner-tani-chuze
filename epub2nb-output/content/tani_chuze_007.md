@@ -35,6 +35,6 @@ napínat vzduch.
 Posouvat život  
 kapkou svého těla…
 
-(rekonstrukce z roku 1990)
+_(rekonstrukce z roku 1990)_
 
 </section>

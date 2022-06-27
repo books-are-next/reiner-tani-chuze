@@ -15,6 +15,6 @@ další ráno v Římě na via Chiapucci.
 Nedovřeným oknem vstoupí lysé ptáče:  
 spi, na malou lásku stačí malý sup.
 
-(rekonstrukce z roku 1991)
+_(rekonstrukce z roku 1991)_
 
 </section>

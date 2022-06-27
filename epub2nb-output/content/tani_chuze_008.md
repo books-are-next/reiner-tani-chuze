@@ -25,6 +25,6 @@ hrome, kdo rébus ten vyloží?
 Jakou si zaslouží v životě slávu ten,  
 kdo se vyřídil insitní souloží?
 
-(rekonstrukce z roku 1990)
+_(rekonstrukce z roku 1990)_
 
 </section>
