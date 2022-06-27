@@ -1,6 +1,6 @@
 ---
 title: '* * * (Někde)'
-contentType: prose
+contentType: poetry
 ---
 
 <section>

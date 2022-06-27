@@ -1,6 +1,6 @@
 ---
 title: '* * * (Švédská trojice)'
-contentType: prose
+contentType: poetry
 ---
 
 <section>

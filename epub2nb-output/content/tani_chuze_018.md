@@ -1,6 +1,6 @@
 ---
 title: '* * * (Post coitum…)'
-contentType: prose
+contentType: poetry
 ---
 
 <section>
@@ -39,8 +39,8 @@ já má přece z nahoty velmi libý pocit.
 
 Já se přece jen tak nerozvzlyká…
 
-                                    — Časované ticho  
-                         v koši tiká… Vrzla klika!  
+                      — Časované ticho  
+             v koši tiká… Vrzla klika!  
 Bytem jde ten, kdo byl vyhrabán.  
 Do ložnic se vrací dávno mrtvý pán.
 

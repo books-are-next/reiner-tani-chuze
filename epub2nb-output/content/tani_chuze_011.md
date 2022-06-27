@@ -1,6 +1,6 @@
 ---
 title: '* * * (Love story)'
-contentType: prose
+contentType: poetry
 ---
 
 <section>
@@ -14,7 +14,7 @@ Okno se koupe zarudlém v jantaru,
 v sítnici roztéká olůvko času…  
 Neb skrze zčeřená luka tvých vlasů  
 veden jsem ke kůlu —  
-                          klidný a bledý.
+             klidný a bledý.
 
 Brodím se travami a když mě zabijí,  
 něha se nahrne do žlábků labií.  

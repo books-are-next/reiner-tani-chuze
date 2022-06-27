@@ -2,19 +2,19 @@
 outputs: meta
 slug: book
 contentType: prose
-languageCode: en
+languageCode: cs
 meta:
+  languageCode: cs
   title: Tání chůze
   identifier: 6c8cad22-eb46-4575-ace7-5653748bf13a
   author: Martin Reiner
   publisher: Městská knihovna v Praze
   modified: '2019-10-30T00:00:00.000Z'
+  contentType: poetry
+  publisherShort: mkp
+  edition: poezie
 readingOrder:
   - promo.html
-  - tani_chuze_001.html
-  - tani_chuze_002.html
-  - tani_chuze_003.html
-  - tani_chuze_004.html
   - tani_chuze_005.html
   - tani_chuze_006.html
   - tani_chuze_007.html
@@ -40,11 +40,12 @@ readingOrder:
   - tani_chuze_027.html
   - tani_chuze_028.html
   - tani_chuze_029.html
-  - tani_chuze_030.html
+  - colophon.html
 tocBase:
   - id: section-1
     children: []
     isSection: true
+    listType: plain
 static:
   - style
   - scripts
@@ -52,5 +53,6 @@ static:
   - fonts
   - resources
   - template-images
+  - assets
   - favicon.png
 ---

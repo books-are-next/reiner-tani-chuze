@@ -1,6 +1,6 @@
 ---
 title: '* * * (Skryje)'
-contentType: prose
+contentType: poetry
 ---
 
 <section>

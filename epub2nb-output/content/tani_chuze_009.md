@@ -1,6 +1,6 @@
 ---
 title: '* * * (Bez názvu)'
-contentType: prose
+contentType: poetry
 ---
 
 <section>
@@ -13,7 +13,7 @@ bukletu a poslouchám tvůj nadzvukový hlas.
 Mariah! Supersonic!
 
 Poslouchám tě, když jsem sám, a když tě  
-                                                                           poslouchám,  
+             poslouchám,  
 s tebou jsem, Mariah. Tehdy přeji si:  
 Ó věci prosté, vejdětež branami mých smyslů  
 a setrvejte _inside me_ ku větší slávě Boží, Gloria!

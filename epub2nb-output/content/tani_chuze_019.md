@@ -1,6 +1,6 @@
 ---
 title: '* * * (Spánek)'
-contentType: prose
+contentType: poetry
 ---
 
 <section>

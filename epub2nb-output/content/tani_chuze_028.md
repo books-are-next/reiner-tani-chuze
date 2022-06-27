@@ -1,6 +1,6 @@
 ---
 title: '* * * (Tání chůze)'
-contentType: prose
+contentType: poetry
 ---
 
 <section>
@@ -29,6 +29,6 @@ On dá se do pohybu, zatímco ty,
 hebký popel nesený pryč ve vlasech vlasatice,  
 budeš souřadně vkreslen do nicoty.  
 — Však, bratře, věz, lze ztratit více, mnohem více  
-                                    ve zlatých vlasech vlasatice.
+             ve zlatých vlasech vlasatice.
 
 </section>

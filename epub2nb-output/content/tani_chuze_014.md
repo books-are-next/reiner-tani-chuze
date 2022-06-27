@@ -1,6 +1,6 @@
 ---
 title: '* * * (Brněnské loučení à la V\. N\.)'
-contentType: prose
+contentType: poetry
 ---
 
 <section>
@@ -24,7 +24,7 @@ Našel jsem v tobě, co dosud nenalezli jiní:
 schovávala’s v klíně sloky slavné básně.  
 Do jakých rozsoch tě budoucí čas vklíní?  
 — Tvým osudem je letět, mým: hynout —  
-                                                        ovšem _krásně_.
+             ovšem _krásně_.
 
 Sbohem, miláčku, sbohem, můj krystale!  
 Poštou ti posílám tesklivý rozsudek.  

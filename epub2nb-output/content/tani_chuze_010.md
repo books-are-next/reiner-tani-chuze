@@ -1,6 +1,6 @@
 ---
 title: '* * * (Noční báseň)'
-contentType: prose
+contentType: poetry
 ---
 
 <section>

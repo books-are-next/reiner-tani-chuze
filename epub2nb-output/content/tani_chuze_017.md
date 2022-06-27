@@ -1,6 +1,6 @@
 ---
 title: '* * * (Ticho zmírá)'
-contentType: prose
+contentType: poetry
 ---
 
 <section>
@@ -27,7 +27,7 @@ vše nehybné se náhle dává do pohybu.
 Také já se hýbu.
 
 Jen má pravá ruka ku prospěchu ticha  
-                                 se spěží pera znehybněla…
+             se spěží pera znehybněla…
 
 Chvíli slyšíš sochy dýchat.  
 V pozadí už marš, rychlopalná děla!
