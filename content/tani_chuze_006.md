@@ -1,6 +1,6 @@
 ---
 title: '* * * (Kosmodrom)'
-contentType: prose
+contentType: poetry
 ---
 
 <section>

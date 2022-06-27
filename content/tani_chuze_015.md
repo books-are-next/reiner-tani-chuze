@@ -1,6 +1,6 @@
 ---
 title: '* * * (Píseň)'
-contentType: prose
+contentType: poetry
 ---
 
 <section>
@@ -24,7 +24,7 @@ když své heretické myšlenky nejprve
 
 Když se pěkně vrbám vyzpovídám z vraždy,  
 schovám se sám před sebou…  
-                                       český Salman Rushdie.
+             český Salman Rushdie.
 
 (rekonstrukce z roku 1990)
 

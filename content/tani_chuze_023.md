@@ -1,6 +1,6 @@
 ---
 title: "* * * (Thema à\_la these)"
-contentType: prose
+contentType: poetry
 ---
 
 <section>
@@ -17,7 +17,7 @@ K tobě, má lásko, přijde asi zítra,
 jistotně kalný bude míti hled.  
 Nedáš nic znát a budeš tak chytrá,  
 že se ti podaří úžasem oněmět. Ve vlasech  
-                                                                   budeš míti vklet  
+                         budeš míti vklet  
 diadém vcítění, šperk čarokrásný.
 
 (rekonstrukce z roku 1990)

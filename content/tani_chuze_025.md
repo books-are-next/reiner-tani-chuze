@@ -1,6 +1,6 @@
 ---
 title: '* * * (Jak se dělá báseň)'
-contentType: prose
+contentType: poetry
 ---
 
 <section>

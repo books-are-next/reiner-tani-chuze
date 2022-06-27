@@ -1,6 +1,6 @@
 ---
 title: '* * * (Chůze pošmourným odpolednem)'
-contentType: prose
+contentType: poetry
 ---
 
 <section>

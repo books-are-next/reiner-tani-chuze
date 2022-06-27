@@ -1,6 +1,6 @@
 ---
 title: '* * * (Taje erotiky)'
-contentType: prose
+contentType: poetry
 ---
 
 <section>

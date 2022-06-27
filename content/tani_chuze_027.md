@@ -1,6 +1,6 @@
 ---
 title: "* * * (Hřbitov v\_Marině)"
-contentType: prose
+contentType: poetry
 ---
 
 <section>
@@ -8,7 +8,7 @@ contentType: prose
 Jak rozlišit ty dvě: chvíli cennou, chvíli bezcennou?  
 Tancují v reji plošně obsáhlém…  
 Hodiny zírám na gekona, čekaje,  
-                                                     kdy se nohy lezce hnou,  
+             kdy se nohy lezce hnou,  
 je vedro… a kdesi v hloubi pod sálem
 
 leží řady těch, již strnule civí před sebe.  
@@ -19,7 +19,7 @@ rudkou maluje své tahy; sen-noha dřevěná.
 Gekon se asi pohne, až mě odsud vyženou;  
 já nedočkám tu chvíli kýženou  
 a mizernou mi bude útěchou,  
-                                               že věděl jsem už za života:  
+             že věděl jsem už za života:  
 Chvíle jako taková je neúprosná kóta,
 
 o niž se dá bojovat jen bez pohybu, v tkvění.  

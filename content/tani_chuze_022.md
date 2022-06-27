@@ -1,6 +1,6 @@
 ---
 title: '* * * (Vzdechy nad Brnem)'
-contentType: prose
+contentType: poetry
 ---
 
 <section>
@@ -32,8 +32,8 @@ mých hebce mrákotných, _ach!_, třiatřicet let.
 Berou to hopem a mají to hned.
 
 A já jsem rád, že jedu s čistou hlavou.  
-                  _Můj vztah k Brnu totiž není_  
-                  _lepší nežli — bio-ero-genní_.  
+             _Můj vztah k Brnu totiž není_  
+             _lepší nežli — bio-ero-genní_.  
 Žiju v tom a miluju to.
 
 Cpu se v menzách, vedu první útok,  
@@ -84,6 +84,6 @@ s úžasu tenkou krystalickou nití.
 Cítím, jak vpich podzimem se nítí…  
 a když se nad Brnem rozklene nebe,  
 vím, že jsem sceloval  
-                                      jenom sám sebe.
+             jenom sám sebe.
 
 </section>

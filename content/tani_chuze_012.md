@@ -1,6 +1,6 @@
 ---
 title: "* * * (A\_až pant klasika…)"
-contentType: prose
+contentType: poetry
 ---
 
 <section>

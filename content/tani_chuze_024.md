@@ -1,6 +1,6 @@
 ---
 title: '* * * (Novoroční)'
-contentType: prose
+contentType: poetry
 ---
 
 <section>

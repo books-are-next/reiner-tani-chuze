@@ -1,6 +1,6 @@
 ---
 title: '* * * (Už nás to přešlo)'
-contentType: prose
+contentType: poetry
 ---
 
 <section>

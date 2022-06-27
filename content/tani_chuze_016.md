@@ -1,6 +1,6 @@
 ---
 title: '* * * (Na okenním rámu)'
-contentType: prose
+contentType: poetry
 ---
 
 <section>
