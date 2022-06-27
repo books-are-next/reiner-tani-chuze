@@ -5,7 +5,7 @@ contentType: poetry
 
 <section>
 
-J. H. Krchovskému
+_J. H. Krchovskému_
 
 _Musím ještě pít!_ Vydechnu líh do odulé tváře;  
 však lunu střídáš ty, zlá noc se demaskuje…  

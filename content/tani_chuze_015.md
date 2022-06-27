@@ -5,7 +5,7 @@ contentType: poetry
 
 <section>
 
-Norbertu Holubovi
+_Norbertu Holubovi_
 
 Setmělo se nízko nad prostřelené čelo,  
 bílá látka přikryla rožek synagogy.
@@ -26,6 +26,6 @@ Když se pěkně vrbám vyzpovídám z vraždy,
 schovám se sám před sebou…  
              český Salman Rushdie.
 
-(rekonstrukce z roku 1990)
+_(rekonstrukce z roku 1990)_
 
 </section>

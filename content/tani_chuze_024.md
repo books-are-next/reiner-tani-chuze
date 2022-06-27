@@ -5,7 +5,7 @@ contentType: poetry
 
 <section>
 
-naposledy Jitce
+_naposledy Jitce_
 
 Ledva sis usrkl z prvního dne roku,  
 už běžíš nazpátek; brána je zavřená.  

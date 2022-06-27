@@ -15,6 +15,6 @@ V červené aleji
 Kdo otevře dlaň,  
 vzlétne jako fénix.
 
-(napsáno v roce 1987)
+_(napsáno v roce 1987)_
 
 </section>

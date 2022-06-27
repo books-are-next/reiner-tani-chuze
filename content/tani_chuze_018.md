@@ -5,7 +5,7 @@ contentType: poetry
 
 <section>
 
-Markétě Jankové
+_Markétě Jankové_
 
 Když za naším domem vyhloubili jámu  
 a miláček do rotačky pračky  
@@ -44,6 +44,6 @@ Já se přece jen tak nerozvzlyká…
 Bytem jde ten, kdo byl vyhrabán.  
 Do ložnic se vrací dávno mrtvý pán.
 
-Tři dny po napsání této básně přinesla Mladá fronta Dnes zprávu, že během archeologického výzkumu pod mým kuchyňským oknem byl sesuvem půdy zasypán mladý muž. Přestože záchranné práce trvaly jen několik minut, zadusil se.
+_Tři dny po napsání této básně přinesla Mladá fronta Dnes zprávu, že během archeologického výzkumu pod mým kuchyňským oknem byl sesuvem půdy zasypán mladý muž. Přestože záchranné práce trvaly jen několik minut, zadusil se._
 
 </section>
