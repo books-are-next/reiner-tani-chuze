@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "reiner-tani-chuze-93c88b7",
-  "revision": "93c88b7",
+  "identifier": "reiner-tani-chuze-27be71b",
+  "revision": "27be71b",
   "readingOrder": [
     "promo.html",
     "tani_chuze_005.html",
@@ -40,8 +40,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Mon Jun 27 2022 09:10:25 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1656321025662
+    "date": "Mon Jun 27 2022 09:17:43 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1656321463520
   },
   "documents": [
     {
