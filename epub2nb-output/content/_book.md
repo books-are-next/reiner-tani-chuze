@@ -40,7 +40,7 @@ readingOrder:
   - tani_chuze_027.html
   - tani_chuze_028.html
   - tani_chuze_029.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:

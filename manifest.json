@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "reiner-tani-chuze-27be71b",
-  "revision": "27be71b",
+  "identifier": "reiner-tani-chuze-4938f48",
+  "revision": "4938f48",
   "readingOrder": [
     "promo.html",
     "tani_chuze_005.html",
@@ -37,11 +37,11 @@
     "tani_chuze_027.html",
     "tani_chuze_028.html",
     "tani_chuze_029.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Mon Jun 27 2022 09:17:43 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1656321463520
+    "date": "Thu Jul 07 2022 08:37:49 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657183069307
   },
   "documents": [
     {
@@ -210,7 +210,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "(A až pant klasika…)",
+          "name": "(A až pant klasika…)",
           "id": null,
           "children": []
         }
@@ -250,7 +250,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "(Brněnské loučení à la V. N.)",
+          "name": "(Brněnské loučení à la V. N.)",
           "id": null,
           "children": []
         }
@@ -290,7 +290,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "(Na okenním rámu)",
+          "name": "(Na okenním rámu)",
           "id": null,
           "children": []
         }
@@ -430,7 +430,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "(Thema à la these)",
+          "name": "(Thema à la these)",
           "id": null,
           "children": []
         }
@@ -470,7 +470,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "(Jak se dělá báseň)",
+          "name": "(Jak se dělá báseň)",
           "id": null,
           "children": []
         }
@@ -545,12 +545,12 @@
       "role": "chapter",
       "order": 25,
       "prev": "tani_chuze_028.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": "(Už nás to přešlo)",
+          "name": "(Už nás to přešlo)",
           "id": null,
           "children": []
         }
@@ -558,11 +558,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 129,
-      "chars": 835,
+      "chars": 834,
       "ideas": 14,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "tani_chuze_029.html",
       "next": null,
@@ -580,7 +580,7 @@
   "totals": {
     "all": {
       "words": 3356,
-      "chars": 18911,
+      "chars": 18910,
       "ideas": 569
     },
     "chapters": {
