@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "reiner-tani-chuze-4b27636",
-  "revision": "4b27636",
+  "identifier": "reiner-tani-chuze-5cd02b8",
+  "revision": "5cd02b8",
   "readingOrder": [
     "promo.html",
     "tani_chuze_005.html",
@@ -40,8 +40,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 14:11:58 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665151918100
+    "date": "Mon Oct 10 2022 16:03:57 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665417837703
   },
   "documents": [
     {
@@ -560,7 +560,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 128,
-      "chars": 835,
+      "chars": 836,
       "ideas": 13,
       "role": "about",
       "order": null,
@@ -580,7 +580,7 @@
   "totals": {
     "all": {
       "words": 3355,
-      "chars": 18911,
+      "chars": 18912,
       "ideas": 568
     },
     "chapters": {
