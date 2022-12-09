@@ -1,5 +1,5 @@
 ---
-title: "\* \* \* (U\_bludiček)"
+title: "\* \* \* (U_bludiček)"
 contentType: poetry
 ---
 
