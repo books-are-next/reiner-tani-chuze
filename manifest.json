@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "reiner-tani-chuze-af261d3",
-  "revision": "af261d3",
+  "identifier": "reiner-tani-chuze-68b5108",
+  "revision": "68b5108",
   "readingOrder": [
     "promo.html",
     "tani_chuze_005.html",
@@ -40,8 +40,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Dec 09 2022 17:39:17 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1670607557130
+    "date": "Fri Dec 09 2022 17:55:14 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1670608514177
   },
   "documents": [
     {
@@ -197,10 +197,10 @@
       ]
     },
     {
-      "title": "     (A_až pant klasika…)      ",
+      "title": "* * * (A až pant klasika …)",
       "file": "tani_chuze_012.html",
-      "words": 107,
-      "chars": 591,
+      "words": 112,
+      "chars": 598,
       "ideas": 22,
       "role": "chapter",
       "order": 8,
@@ -210,7 +210,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "(A_až pant klasika…)",
+          "name": "* * * (A až pant klasika …)",
           "id": null,
           "children": []
         }
@@ -417,10 +417,10 @@
       ]
     },
     {
-      "title": "     (Thema à_la these)      ",
+      "title": "* * * (Thema à la these)",
       "file": "tani_chuze_023.html",
-      "words": 77,
-      "chars": 446,
+      "words": 81,
+      "chars": 452,
       "ideas": 14,
       "role": "chapter",
       "order": 19,
@@ -430,7 +430,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "(Thema à_la these)",
+          "name": "* * * (Thema à la these)",
           "id": null,
           "children": []
         }
@@ -477,10 +477,10 @@
       ]
     },
     {
-      "title": "     (U bludiček)      ",
+      "title": "* * * (U bludiček)",
       "file": "tani_chuze_026.html",
-      "words": 146,
-      "chars": 791,
+      "words": 149,
+      "chars": 797,
       "ideas": 33,
       "role": "chapter",
       "order": 22,
@@ -490,17 +490,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "(U bludiček)",
+          "name": "* * * (U bludiček)",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "     (Hřbitov v Marině)      ",
+      "title": "* * * (Hřbitov v Marině)",
       "file": "tani_chuze_027.html",
-      "words": 116,
-      "chars": 659,
+      "words": 119,
+      "chars": 665,
       "ideas": 19,
       "role": "chapter",
       "order": 23,
@@ -510,7 +510,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "(Hřbitov v Marině)",
+          "name": "* * * (Hřbitov v Marině)",
           "id": null,
           "children": []
         }
@@ -579,13 +579,13 @@
   ],
   "totals": {
     "all": {
-      "words": 3412,
-      "chars": 19031,
+      "words": 3427,
+      "chars": 19056,
       "ideas": 568
     },
     "chapters": {
-      "words": 3278,
-      "chars": 18163,
+      "words": 3293,
+      "chars": 18188,
       "ideas": 551
     }
   }
