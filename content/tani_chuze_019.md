@@ -1,5 +1,5 @@
 ---
-title: '* * * (Spánek)'
+title: '\* \* \* (Spánek)'
 contentType: poetry
 ---
 

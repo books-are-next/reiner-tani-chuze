@@ -1,5 +1,5 @@
 ---
-title: '* * * (Chůze pošmourným odpolednem)'
+title: '\* \* \* (Chůze pošmourným odpolednem)'
 contentType: poetry
 ---
 

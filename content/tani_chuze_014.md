@@ -1,5 +1,5 @@
 ---
-title: '* * * (Brněnské loučení à la V\. N\.)'
+title: '\* \* \* (Brněnské loučení à la V\. N\.)'
 contentType: poetry
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: '* * * (Jak se dělá báseň)'
+title: '\* \* \* (Jak se dělá báseň)'
 contentType: poetry
 ---
 

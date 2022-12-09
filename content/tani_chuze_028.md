@@ -1,5 +1,5 @@
 ---
-title: '* * * (Tání chůze)'
+title: '\* \* \* (Tání chůze)'
 contentType: poetry
 ---
 

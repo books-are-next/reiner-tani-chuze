@@ -1,5 +1,5 @@
 ---
-title: '* * * (Love story)'
+title: '\* \* \* (Love story)'
 contentType: poetry
 ---
 

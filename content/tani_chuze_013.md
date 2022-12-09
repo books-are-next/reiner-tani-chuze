@@ -1,5 +1,5 @@
 ---
-title: '* * * (Skryje)'
+title: '\* \* \* (Skryje)'
 contentType: poetry
 ---
 

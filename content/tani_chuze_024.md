@@ -1,5 +1,5 @@
 ---
-title: '* * * (Novoroční)'
+title: '\* \* \* (Novoroční)'
 contentType: poetry
 ---
 

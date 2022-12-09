@@ -1,5 +1,5 @@
 ---
-title: '* * * (Noční báseň)'
+title: '\* \* \* (Noční báseň)'
 contentType: poetry
 ---
 

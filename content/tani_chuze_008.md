@@ -1,5 +1,5 @@
 ---
-title: '* * * (Taje erotiky)'
+title: '\* \* \*(Taje erotiky)'
 contentType: poetry
 ---
 

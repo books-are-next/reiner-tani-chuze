@@ -1,5 +1,5 @@
 ---
-title: '* * * (Post coitum…)'
+title: '\* \* \* (Post coitum…)'
 contentType: poetry
 ---
 

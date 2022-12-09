@@ -1,5 +1,5 @@
 ---
-title: '* * * (Už nás to přešlo)'
+title: '\* \* \* (Už nás to přešlo)'
 contentType: poetry
 ---
 

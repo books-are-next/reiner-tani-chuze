@@ -1,5 +1,5 @@
 ---
-title: "* * * (A\_až pant klasika…)"
+title: "\* \* \* (A\_až pant klasika…)"
 contentType: poetry
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: '* * * (Ticho zmírá)'
+title: '\* \* \* (Ticho zmírá)'
 contentType: poetry
 ---
 

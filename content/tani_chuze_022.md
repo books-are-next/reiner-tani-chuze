@@ -1,5 +1,5 @@
 ---
-title: '* * * (Vzdechy nad Brnem)'
+title: '\* \* \* (Vzdechy nad Brnem)'
 contentType: poetry
 ---
 

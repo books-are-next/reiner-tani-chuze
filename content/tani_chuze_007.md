@@ -1,5 +1,5 @@
 ---
-title: '* * * (Někde)'
+title: '\* \* \* (Někde)'
 contentType: poetry
 ---
 

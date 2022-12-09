@@ -1,5 +1,5 @@
 ---
-title: '* * * (Švédská trojice)'
+title: '\* \* \* (Švédská trojice)'
 contentType: poetry
 ---
 

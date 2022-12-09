@@ -1,5 +1,5 @@
 ---
-title: '* * * (Na okenním rámu)'
+title: '\* \* \* (Na okenním rámu)'
 contentType: poetry
 ---
 
