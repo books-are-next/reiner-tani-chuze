@@ -1,5 +1,5 @@
 ---
-title: '* * * (Kosmodrom)'
+title: '/* /* /* (Kosmodrom)'
 contentType: poetry
 ---
 
