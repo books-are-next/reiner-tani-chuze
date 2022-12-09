@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "reiner-tani-chuze-9641bdf",
-  "revision": "9641bdf",
+  "identifier": "reiner-tani-chuze-af261d3",
+  "revision": "af261d3",
   "readingOrder": [
     "promo.html",
     "tani_chuze_005.html",
@@ -40,8 +40,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Dec 09 2022 17:01:34 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1670605294910
+    "date": "Fri Dec 09 2022 17:39:17 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1670607557130
   },
   "documents": [
     {
@@ -97,10 +97,10 @@
       ]
     },
     {
-      "title": "     (Někde)      ",
+      "title": "* * * (Někde)",
       "file": "tani_chuze_007.html",
-      "words": 73,
-      "chars": 405,
+      "words": 76,
+      "chars": 411,
       "ideas": 26,
       "role": "chapter",
       "order": 3,
@@ -110,17 +110,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "(Někde)",
+          "name": "* * * (Někde)",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "     (Taje erotiky)      ",
+      "title": "* * *(Taje erotiky)",
       "file": "tani_chuze_008.html",
-      "words": 105,
-      "chars": 616,
+      "words": 107,
+      "chars": 621,
       "ideas": 18,
       "role": "chapter",
       "order": 4,
@@ -130,17 +130,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "(Taje erotiky)",
+          "name": "* * *(Taje erotiky)",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "     (Bez názvu)      ",
+      "title": "* * * (Bez názvu)",
       "file": "tani_chuze_009.html",
-      "words": 118,
-      "chars": 683,
+      "words": 121,
+      "chars": 689,
       "ideas": 19,
       "role": "chapter",
       "order": 5,
@@ -150,17 +150,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "(Bez názvu)",
+          "name": "* * * (Bez názvu)",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "     (Noční báseň)      ",
+      "title": "* * * (Noční báseň)",
       "file": "tani_chuze_010.html",
-      "words": 125,
-      "chars": 726,
+      "words": 128,
+      "chars": 732,
       "ideas": 21,
       "role": "chapter",
       "order": 6,
@@ -170,17 +170,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "(Noční báseň)",
+          "name": "* * * (Noční báseň)",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "     (Love story)      ",
+      "title": "* * * (Love story)",
       "file": "tani_chuze_011.html",
-      "words": 82,
-      "chars": 435,
+      "words": 85,
+      "chars": 441,
       "ideas": 15,
       "role": "chapter",
       "order": 7,
@@ -190,16 +190,16 @@
         {
           "index": 0,
           "level": 1,
-          "name": "(Love story)",
+          "name": "* * * (Love story)",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "     (A až pant klasika…)      ",
+      "title": "     (A_až pant klasika…)      ",
       "file": "tani_chuze_012.html",
-      "words": 108,
+      "words": 107,
       "chars": 591,
       "ideas": 22,
       "role": "chapter",
@@ -210,17 +210,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "(A až pant klasika…)",
+          "name": "(A_až pant klasika…)",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "     (Skryje)      ",
+      "title": "* * * (Skryje)",
       "file": "tani_chuze_013.html",
-      "words": 39,
-      "chars": 241,
+      "words": 42,
+      "chars": 247,
       "ideas": 10,
       "role": "chapter",
       "order": 9,
@@ -230,17 +230,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "(Skryje)",
+          "name": "* * * (Skryje)",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "     (Brněnské loučení à la V. N.)      ",
+      "title": "* * * (Brněnské loučení à la V. N.)",
       "file": "tani_chuze_014.html",
-      "words": 141,
-      "chars": 802,
+      "words": 144,
+      "chars": 808,
       "ideas": 22,
       "role": "chapter",
       "order": 10,
@@ -250,17 +250,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "(Brněnské loučení à la V. N.)",
+          "name": "* * * (Brněnské loučení à la V. N.)",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "     (Píseň)      ",
+      "title": "* * * (Píseň)",
       "file": "tani_chuze_015.html",
-      "words": 91,
-      "chars": 516,
+      "words": 94,
+      "chars": 522,
       "ideas": 16,
       "role": "chapter",
       "order": 11,
@@ -270,17 +270,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "(Píseň)",
+          "name": "* * * (Píseň)",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "     (Na okenním rámu)      ",
+      "title": "* * * (Na okenním rámu)",
       "file": "tani_chuze_016.html",
-      "words": 57,
-      "chars": 337,
+      "words": 60,
+      "chars": 343,
       "ideas": 10,
       "role": "chapter",
       "order": 12,
@@ -290,17 +290,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "(Na okenním rámu)",
+          "name": "* * * (Na okenním rámu)",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "     (Ticho zmírá)      ",
+      "title": "* * * (Ticho zmírá)",
       "file": "tani_chuze_017.html",
-      "words": 122,
-      "chars": 693,
+      "words": 125,
+      "chars": 699,
       "ideas": 21,
       "role": "chapter",
       "order": 13,
@@ -310,17 +310,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "(Ticho zmírá)",
+          "name": "* * * (Ticho zmírá)",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "     (Post coitum…)      ",
+      "title": "* * * (Post coitum…)",
       "file": "tani_chuze_018.html",
-      "words": 225,
-      "chars": 1247,
+      "words": 228,
+      "chars": 1253,
       "ideas": 33,
       "role": "chapter",
       "order": 14,
@@ -330,17 +330,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "(Post coitum…)",
+          "name": "* * * (Post coitum…)",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "     (Spánek)      ",
+      "title": "* * * (Spánek)",
       "file": "tani_chuze_019.html",
-      "words": 64,
-      "chars": 370,
+      "words": 67,
+      "chars": 376,
       "ideas": 12,
       "role": "chapter",
       "order": 15,
@@ -350,17 +350,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "(Spánek)",
+          "name": "* * * (Spánek)",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "     (Chůze pošmourným odpolednem)      ",
+      "title": "* * * (Chůze pošmourným odpolednem)",
       "file": "tani_chuze_020.html",
-      "words": 123,
-      "chars": 665,
+      "words": 126,
+      "chars": 671,
       "ideas": 18,
       "role": "chapter",
       "order": 16,
@@ -370,17 +370,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "(Chůze pošmourným odpolednem)",
+          "name": "* * * (Chůze pošmourným odpolednem)",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "     (Švédská trojice)      ",
+      "title": "* * * (Švédská trojice)",
       "file": "tani_chuze_021.html",
-      "words": 293,
-      "chars": 1585,
+      "words": 296,
+      "chars": 1591,
       "ideas": 40,
       "role": "chapter",
       "order": 17,
@@ -390,17 +390,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "(Švédská trojice)",
+          "name": "* * * (Švédská trojice)",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "     (Vzdechy nad Brnem)      ",
+      "title": "* * * (Vzdechy nad Brnem)",
       "file": "tani_chuze_022.html",
-      "words": 395,
-      "chars": 2148,
+      "words": 398,
+      "chars": 2154,
       "ideas": 65,
       "role": "chapter",
       "order": 18,
@@ -410,16 +410,16 @@
         {
           "index": 0,
           "level": 1,
-          "name": "(Vzdechy nad Brnem)",
+          "name": "* * * (Vzdechy nad Brnem)",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "     (Thema à la these)      ",
+      "title": "     (Thema à_la these)      ",
       "file": "tani_chuze_023.html",
-      "words": 78,
+      "words": 77,
       "chars": 446,
       "ideas": 14,
       "role": "chapter",
@@ -430,17 +430,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "(Thema à la these)",
+          "name": "(Thema à_la these)",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "     (Novoroční)      ",
+      "title": "* * * (Novoroční)",
       "file": "tani_chuze_024.html",
-      "words": 210,
-      "chars": 1166,
+      "words": 213,
+      "chars": 1172,
       "ideas": 35,
       "role": "chapter",
       "order": 20,
@@ -450,17 +450,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "(Novoroční)",
+          "name": "* * * (Novoroční)",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "     (Jak se dělá báseň)      ",
+      "title": "* * * (Jak se dělá báseň)",
       "file": "tani_chuze_025.html",
-      "words": 121,
-      "chars": 662,
+      "words": 124,
+      "chars": 668,
       "ideas": 17,
       "role": "chapter",
       "order": 21,
@@ -470,14 +470,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "(Jak se dělá báseň)",
+          "name": "* * * (Jak se dělá báseň)",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "     (U bludiček)      ",
+      "title": "     (U bludiček)      ",
       "file": "tani_chuze_026.html",
       "words": 146,
       "chars": 791,
@@ -497,7 +497,7 @@
       ]
     },
     {
-      "title": "     (Hřbitov v Marině)      ",
+      "title": "     (Hřbitov v Marině)      ",
       "file": "tani_chuze_027.html",
       "words": 116,
       "chars": 659,
@@ -517,10 +517,10 @@
       ]
     },
     {
-      "title": "     (Tání chůze)      ",
+      "title": "* * * (Tání chůze)",
       "file": "tani_chuze_028.html",
-      "words": 139,
-      "chars": 864,
+      "words": 142,
+      "chars": 870,
       "ideas": 22,
       "role": "chapter",
       "order": 24,
@@ -530,17 +530,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "(Tání chůze)",
+          "name": "* * * (Tání chůze)",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "     (Už nás to přešlo)      ",
+      "title": "* * * (Už nás to přešlo)",
       "file": "tani_chuze_029.html",
-      "words": 34,
-      "chars": 182,
+      "words": 37,
+      "chars": 188,
       "ideas": 10,
       "role": "chapter",
       "order": 25,
@@ -550,7 +550,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "(Už nás to přešlo)",
+          "name": "* * * (Už nás to přešlo)",
           "id": null,
           "children": []
         }
@@ -579,13 +579,13 @@
   ],
   "totals": {
     "all": {
-      "words": 3358,
-      "chars": 18918,
+      "words": 3412,
+      "chars": 19031,
       "ideas": 568
     },
     "chapters": {
-      "words": 3224,
-      "chars": 18050,
+      "words": 3278,
+      "chars": 18163,
       "ideas": 551
     }
   }
