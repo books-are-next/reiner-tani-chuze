@@ -1,5 +1,5 @@
 ---
-title: "* * * (Thema à_la these)"
+title: "\* \* \* (Thema à la these)"
 contentType: poetry
 ---
 
