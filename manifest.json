@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "reiner-tani-chuze-dbfc37a",
-  "revision": "dbfc37a",
+  "identifier": "reiner-tani-chuze-e002390",
+  "revision": "e002390",
   "readingOrder": [
     "promo.html",
     "tani_chuze_005.html",
@@ -40,8 +40,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 21 2022 11:41:37 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1666352497945
+    "date": "Fri Dec 09 2022 16:47:27 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1670604447203
   },
   "documents": [
     {
