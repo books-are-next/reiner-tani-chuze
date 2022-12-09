@@ -1,5 +1,5 @@
 ---
-title: "\* \* \* (Hřbitov v\_Marině)"
+title: "\* \* \* (Hřbitov v Marině)"
 contentType: poetry
 ---
 
