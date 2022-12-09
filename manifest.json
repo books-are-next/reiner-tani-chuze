@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "reiner-tani-chuze-be71f93",
-  "revision": "be71f93",
+  "identifier": "reiner-tani-chuze-9641bdf",
+  "revision": "9641bdf",
   "readingOrder": [
     "promo.html",
     "tani_chuze_005.html",
@@ -40,8 +40,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Dec 09 2022 16:56:22 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1670604982037
+    "date": "Fri Dec 09 2022 17:01:34 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1670605294910
   },
   "documents": [
     {
@@ -77,10 +77,10 @@
       ]
     },
     {
-      "title": "//* //* //* (Kosmodrom)",
+      "title": "* * * (Kosmodrom)",
       "file": "tani_chuze_006.html",
       "words": 162,
-      "chars": 921,
+      "chars": 915,
       "ideas": 25,
       "role": "chapter",
       "order": 2,
@@ -90,7 +90,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "//* //* //* (Kosmodrom)",
+          "name": "* * * (Kosmodrom)",
           "id": null,
           "children": []
         }
@@ -580,12 +580,12 @@
   "totals": {
     "all": {
       "words": 3358,
-      "chars": 18924,
+      "chars": 18918,
       "ideas": 568
     },
     "chapters": {
       "words": 3224,
-      "chars": 18056,
+      "chars": 18050,
       "ideas": 551
     }
   }
